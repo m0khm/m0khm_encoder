@@ -11,6 +11,7 @@
 #include <cstdlib>
 #include <ctime>
 
+
 using namespace std;
 
 // Функция для преобразования строки в двоичное представление
